@@ -6,18 +6,18 @@ O repositório tem como objetivo registrar o conhecimento obtido durante toda a 
 # :computer: Screens
 
 ## Mapa de Orfanatos
-![Screenshot](src/assets/prints/orphanageMaps_01.PNG)
+![Screenshot](assets/prints/orphanageMaps_01.PNG)
 
 ## Cadastrar Orfanato
-![Screenshot](src/assets/prints/createOrphanage_01.jpg)
-![Screenshot](src/assets/prints/createOrphanage_02.jpg)
-![Screenshot](src/assets/prints/createOrphanage_03.jpg)
+![Screenshot](assets/prints/createOrphanage_01.jpg)
+![Screenshot](assets/prints/createOrphanage_02.jpg)
+![Screenshot](assets/prints/createOrphanage_03.jpg)
 
 ## Detalhes do Orfanato
 ## Mapa de Orfanatos
-![Screenshot](src/assets/prints/orphanageMaps_02.PNG)
-![Screenshot](src/assets/prints/orphanageDetails_01.jpg)
-![Screenshot](src/assets/prints/orphanageDetails_02.jpg)
+![Screenshot](assets/prints/orphanageMaps_02.PNG)
+![Screenshot](assets/prints/orphanageDetails_01.jpg)
+![Screenshot](assets/prints/orphanageDetails_02.jpg)
 
 
 
