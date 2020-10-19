@@ -14,7 +14,6 @@ O repositório tem como objetivo registrar o conhecimento obtido durante toda a 
 ![Screenshot](assets/prints/createOrphanage_03.jpg)
 
 ## Detalhes do Orfanato
-## Mapa de Orfanatos
 ![Screenshot](assets/prints/orphanageMaps_02.PNG)
 ![Screenshot](assets/prints/orphanageDetails_01.jpg)
 ![Screenshot](assets/prints/orphanageDetails_02.jpg)
